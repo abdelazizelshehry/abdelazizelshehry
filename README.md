@@ -1,19 +1,11 @@
 <h2 align="left">Hi 👋! My name is Abd-Alaziz and I'm a Security Researcher , from Egypt </h2>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-Motivated and detail-oriented Security Engineer with a strong background in communication and electronics engineering.
-Experienced in conducting comprehensive security assessments and penetration testing and vulnerability assessment to identify vulnerabilities and implement robust solutions.
-Bug Hunter at night after hours work 
+Motivated and detail-oriented Security Engineer with a strong background in communication and electronics engineering.\n
+Experienced in conducting comprehensive security assessments and penetration testing and vulnerability assessment to identify vulnerabilities and implement robust solutions.\n
+Bug Hunter at night after hours work\n
 HACK THEM AS U CAN 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
