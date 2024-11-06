@@ -2,8 +2,8 @@
 
 
 Motivated and detail-oriented Security Engineer with a strong background in communication and electronics engineering. <br/>
-Experienced in conducting comprehensive security assessments and penetration testing and vulnerability assessment to identify vulnerabilities and implement robust solutions.\n
-Bug Hunter at night after hours work\n
+Experienced in conducting comprehensive security assessments and penetration testing and vulnerability assessment to identify vulnerabilities and implement robust solutions and i will never stop here seeking to improve my knowledge to collect anything and everything in cyber security field "it's HARD but not IMPOSSIBLE". <br/>
+Bug Hunter at night after work <br/>
 HACK THEM AS U CAN 
 
 <div align="left">
