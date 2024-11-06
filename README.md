@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="nmap logo" />
   <img width="12" />
-  <img src="https://github.com/rapid7/metasploit-framework/raw/master/documentation/images/metasploit-logo.png" height="30" alt="metasploit logo" />
+  <img src="https://media.licdn.com/dms/image/v2/C5633AQHz6xjHG_s0fQ/productpage-image_1128_635/productpage-image_1128_635/0/1626341063105/isoc24_b_v__metasploit_rapid7_image?e=2147483647&v=beta&t=5nKtSmBtM7ZjgxteR6bOl4Q0MqV7dT0t5BUvsuGNgM4" height="30" alt="metasploit logo" />
   <img width="12" />
   <img src="https://hashcat.net/files/hashcat-logo.png" height="30" alt="hashcat logo" />
   <img width="12" />
@@ -40,7 +40,7 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a src=https://www.linkedin.com/in/abdel-aziz-elshehry-a5a5b3190" target="_blank">
+  <a href=https://www.linkedin.com/in/abdel-aziz-elshehry-a5a5b3190" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
