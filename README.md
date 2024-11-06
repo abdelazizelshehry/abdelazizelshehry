@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Nmap_logo.svg" height="30" alt="nmap logo" />
+  <img src="https://nmap.org/images/sitelogo-nmap.svg" height="30" alt="nmap logo" />
   <img width="12" />
   <img src="https://github.com/rapid7/metasploit-framework/raw/master/documentation/images/metasploit-logo.png" height="30" alt="metasploit logo" />
   <img width="12" />
